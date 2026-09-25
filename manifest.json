@@ -25,8 +25,8 @@
     {
       "path": "mods/gamenest-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/gamenest-1.0.0.jar",
-      "sha1": "1d32a81e0e37447c6df52ae2663b2d13ba67b489",
-      "size": 391642
+      "sha1": "b4594ebc55c4d94f1ae9fa9b1bcfe25803ac5eb8",
+      "size": 391806
     },
     {
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
@@ -50,7 +50,7 @@
   "managed": [
     "mods"
   ],
-  "launcherVersion": "1.0.1",
-  "launcherUrl": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/launcher/GameNestLauncher-1.0.1.jar",
-  "launcherSha1": "afde12da6d664bf9a22d792cf2576549e24d8bf6"
+  "launcherVersion": "1.0.2",
+  "launcherUrl": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/launcher/GameNestLauncher-1.0.2.jar",
+  "launcherSha1": "a780473f7c96f917394f060f758a9b1590582fe8"
 }
