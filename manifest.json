@@ -50,7 +50,7 @@
   "managed": [
     "mods"
   ],
-  "launcherVersion": "1.0.0",
-  "launcherUrl": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/launcher/GameNestLauncher-1.0.0.jar",
-  "launcherSha1": "9c10e6e2d24bc875c7d691f955135871d64f3387"
+  "launcherVersion": "1.0.1",
+  "launcherUrl": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/launcher/GameNestLauncher-1.0.1.jar",
+  "launcherSha1": "c637c7f5f6b0b4ffc7aba0a3f36379d00d8d05c7"
 }
