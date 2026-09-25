@@ -1,0 +1,56 @@
+{
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "server": "83.150.217.33",
+  "news": [
+    {
+      "title": "Bienvenue sur GameNest RP",
+      "date": "25/09/2026",
+      "text": "Le launcher officiel est disponible : il installe et met à jour automatiquement le jeu et les mods du serveur."
+    }
+  ],
+  "files": [
+    {
+      "path": "mods/Elite X Quality Guns Forge v5.1 - 1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/X4uLYuhT/versions/nEN6cSCJ/Elite%20X%20Quality%20Guns%20Forge%20v5.1%20-%201.20.1.jar",
+      "sha1": "c665367582e8729bd9735fd0816d08157ef57f9a",
+      "size": 60855659
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675
+    },
+    {
+      "path": "mods/gamenest-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/gamenest-1.0.0.jar",
+      "sha1": "1d32a81e0e37447c6df52ae2663b2d13ba67b489",
+      "size": 391642
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119
+    },
+    {
+      "path": "mods/tacz-1.20.1-1.1.8-hotfix.jar",
+      "url": "https://cdn.modrinth.com/data/SzzJttH8/versions/yOVIzIJR/tacz-1.20.1-1.1.8-hotfix.jar",
+      "sha1": "bddafeea4c9c1132ed720c30fbaedfe5ab25e846",
+      "size": 57465167
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/S11m0QIb/voicechat-forge-1.20.1-2.6.22.jar",
+      "sha1": "ad9179e30cb7b3ffb42b3d9b8e2e9408b473d7fa",
+      "size": 4923439
+    }
+  ],
+  "managed": [
+    "mods"
+  ],
+  "launcherVersion": "1.0.0",
+  "launcherUrl": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/launcher/GameNestLauncher-1.0.0.jar",
+  "launcherSha1": "371940832fcedff6b25ad0b59ecec0d1ddf43cd0"
+}
