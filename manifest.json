@@ -12,13 +12,13 @@
   "files": [
     {
       "path": "mods/Elite X Quality Guns Forge v5.1 - 1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/X4uLYuhT/versions/nEN6cSCJ/Elite%20X%20Quality%20Guns%20Forge%20v5.1%20-%201.20.1.jar",
+      "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/Elite%20X%20Quality%20Guns%20Forge%20v5.1%20-%201.20.1.jar",
       "sha1": "c665367582e8729bd9735fd0816d08157ef57f9a",
       "size": 60855659
     },
     {
       "path": "mods/[1.20.1-forge]-MLEU-2.3.jar",
-      "url": "https://cdn.modrinth.com/data/8F2kh4MW/versions/EUPct7A9/%5B1.20.1-forge%5D-MLEU-2.3.jar",
+      "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/%5B1.20.1-forge%5D-MLEU-2.3.jar",
       "sha1": "94ef6260cd1cbe0b535d2478f023aa44962af825",
       "size": 4607618
     },
@@ -30,15 +30,15 @@
     },
     {
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/embeddium-0.3.31%2Bmc1.20.1.jar",
       "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
       "size": 1320675
     },
     {
       "path": "mods/gamenest-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/gamenest-1.0.0.jar",
-      "sha1": "90a25f61f48c9f9fa27b908184cb09469583cb36",
-      "size": 681195
+      "sha1": "8efa62951141a8b1ecfc2d164b3d13e373952f9b",
+      "size": 679755
     },
     {
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
@@ -54,7 +54,7 @@
     },
     {
       "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/S11m0QIb/voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/voicechat-forge-1.20.1-2.6.22.jar",
       "sha1": "ad9179e30cb7b3ffb42b3d9b8e2e9408b473d7fa",
       "size": 4923439
     },
