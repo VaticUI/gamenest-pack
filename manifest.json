@@ -17,6 +17,18 @@
       "size": 60855659
     },
     {
+      "path": "mods/[1.20.1-forge]-MLEU-2.3.jar",
+      "url": "https://cdn.modrinth.com/data/8F2kh4MW/versions/EUPct7A9/%5B1.20.1-forge%5D-MLEU-2.3.jar",
+      "sha1": "94ef6260cd1cbe0b535d2478f023aa44962af825",
+      "size": 4607618
+    },
+    {
+      "path": "mods/[1.20.1]-CamoUniforms-1.0.2-forge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6782/639/%5B1.20.1%5D-CamoUniforms-1.0.2-forge.jar",
+      "sha1": "629013ff77271abc44b0d5fe93a550c90fe2bb15",
+      "size": 38532377
+    },
+    {
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
       "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
@@ -25,8 +37,8 @@
     {
       "path": "mods/gamenest-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/gamenest-1.0.0.jar",
-      "sha1": "74a1f797f6d4f27e4b138007c2e1eac9ad43b124",
-      "size": 583166
+      "sha1": "39aeb65794ff034b661da25a5b0df51f016e0c1a",
+      "size": 652350
     },
     {
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
