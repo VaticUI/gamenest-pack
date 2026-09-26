@@ -45,9 +45,16 @@
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/S11m0QIb/voicechat-forge-1.20.1-2.6.22.jar",
       "sha1": "ad9179e30cb7b3ffb42b3d9b8e2e9408b473d7fa",
       "size": 4923439
+    },
+    {
+      "path": "shaderpacks/photon_v1.3b.zip",
+      "url": "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip",
+      "sha1": "d975d25c9686de5f10e8b86c8518613cdf3f040a",
+      "size": 3800987
     }
   ],
   "managed": [
     "mods"
-  ]
+  ],
+  "shader": "photon_v1.3b.zip"
 }
