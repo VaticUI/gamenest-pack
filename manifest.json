@@ -53,6 +53,12 @@
       "size": 996758
     },
     {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+      "size": 7442998
+    },
+    {
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
       "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
       "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
