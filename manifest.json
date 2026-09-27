@@ -49,8 +49,8 @@
     {
       "path": "mods/gamenest-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/VaticUI/gamenest-pack/main/files/gamenest-1.0.0.jar",
-      "sha1": "4b5278657249f45da32085c154e8a15612b16735",
-      "size": 1323706
+      "sha1": "3690cae3ef8b16cdc61b4d76036c1a208c96b235",
+      "size": 1331313
     },
     {
       "path": "mods/kotlinforforge-4.12.0-all.jar",
